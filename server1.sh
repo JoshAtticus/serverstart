@@ -30,7 +30,7 @@ gnome-terminal -- bash -c "cd ../MCServer && ./bedrock_server"
 echo "Started Minecraft Server!"
 sleep 1
 echo "Starting Meowerimg"
-gnome-terminal -- bash -c "cd ../Meowerimg && python3 main.py"
+gnome-terminal -- bash -c "cd ../meowerimg && python3 main.py"
 echo "Started Meowerimg!"
 echo "-------------------------------"
 sleep 1
